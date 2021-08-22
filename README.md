@@ -1,0 +1,1 @@
+This repo contains my solutions to the Full Stack Open course exercises.
